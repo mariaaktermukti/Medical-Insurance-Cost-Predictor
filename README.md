@@ -14,3 +14,7 @@ This application predicts medical insurance costs based on personal information 
 
 ## Model
 Trained using Random Forest algorithm on medical insurance dataset.
+
+## Live Demo
+Try the application here:
+https://mariaaktermukti-medical-insurance-cost-predictor-b2a90e3.hf.space/
